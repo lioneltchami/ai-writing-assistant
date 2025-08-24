@@ -2,10 +2,8 @@
 
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import ContentGenerator from '@/components/ContentGenerator'
-import TextOptimizer from '@/components/TextOptimizer'
-import Header from '@/components/Header'
 import { PenTool, Sparkles } from 'lucide-react'
+import { ContentGenerator, TextOptimizer, Header } from '@/components'
 
 type ActiveTab = 'generate' | 'optimize'
 
