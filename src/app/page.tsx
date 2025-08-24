@@ -261,7 +261,7 @@ This concludes our comprehensive look at ${topic}. The content has been structur
                 <div className="text-center py-12 text-gray-500">
                   <Wand2 className="w-12 h-12 mx-auto mb-4 opacity-50" />
                   <p>Your generated content will appear here</p>
-                  <p className="text-sm mt-2">Enter a topic and click "Generate Content" to get started</p>
+                  <p className="text-sm mt-2">Enter a topic and click &ldquo;Generate Content&rdquo; to get started</p>
                 </div>
               )}
             </div>
@@ -419,7 +419,7 @@ This text has been optimized using advanced algorithms to improve naturalness, r
                   <div className="text-center py-12 text-gray-500">
                     <Sparkles className="w-12 h-12 mx-auto mb-4 opacity-50" />
                     <p>Your optimized text will appear here</p>
-                    <p className="text-sm mt-2">Enter text and click "Optimize Text" to get started</p>
+                    <p className="text-sm mt-2">Enter text and click &ldquo;Optimize Text&rdquo; to get started</p>
                   </div>
                 )}
               </div>
